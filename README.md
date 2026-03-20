@@ -67,3 +67,5 @@ The response is returned as a string
 You need an active OpenAI account with billing enabled
 
 If you receive a 429 insufficient_quota error, check your usage and billing settings
+
+Incase you are new to Spring AI and want to learn with a free version instead, you can use Ollama (local AI, no API key)
